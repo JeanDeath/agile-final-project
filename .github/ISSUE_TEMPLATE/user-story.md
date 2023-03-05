@@ -1,7 +1,6 @@
 ---
 name: User Story
-about: Describe this issue teThis template is for creating user storiesmplate's purpose
-  here.
+about: This template is for creating user storiesmplate's purpose
 title: ''
 labels: ''
 assignees: ''
